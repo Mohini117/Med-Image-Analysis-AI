@@ -1,0 +1,16 @@
+streamlit 
+together
+pandas
+python-dotenv
+SpeechRecognition
+pyttsx3
+langchain_groq
+pyaudio
+openai
+gtts
+pygame
+gTTs
+plyer
+pydub
+scipy
+elevenlabs

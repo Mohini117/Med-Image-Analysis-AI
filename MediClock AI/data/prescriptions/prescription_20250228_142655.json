@@ -1,0 +1,49 @@
+{
+    "Date": "12/10/22",
+    "Patient": {
+        "Name": "Mr. Sachin Sansare",
+        "Age": "28/m"
+    },
+    "Medicines": [
+        {
+            "Type": "Tab",
+            "Medicine": "Augmentin 625mg",
+            "Dosage": "1-0-1",
+            "Timings": [
+                "8 AM",
+                "",
+                "7 PM"
+            ]
+        },
+        {
+            "Type": "Tab",
+            "Medicine": "Enzoflam",
+            "Dosage": "1-0-1",
+            "Timings": [
+                "8 AM",
+                "",
+                "7 PM"
+            ]
+        },
+        {
+            "Type": "Tab",
+            "Medicine": "PanD 400mg",
+            "Dosage": "1-0-0",
+            "Timings": [
+                "8 AM",
+                "",
+                ""
+            ]
+        },
+        {
+            "Type": "Adv",
+            "Medicine": "Hexigel gum paint massage",
+            "Dosage": "1-0-1",
+            "Timings": [
+                "8 AM",
+                "",
+                "7 PM"
+            ]
+        }
+    ]
+}

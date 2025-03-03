@@ -1,0 +1,16 @@
+{
+    "Predicted_Disease": "Brain Tumor",
+    "Confidence_Score": 80,
+    "Description": "A well-defined, rounded, and slightly irregular mass is visible in the left parietal lobe, likely a brain tumor.",
+    "Possible_Causes": [
+        "Glioblastoma multiforme (GBM)",
+        "Meningioma",
+        "Metastatic brain tumor"
+    ],
+    "Recommended_Actions": [
+        "Consultation with a neurosurgeon or neuro-oncologist",
+        "MRI or CT scans with contrast",
+        "Biopsy or surgical resection",
+        "Chemotherapy or radiation therapy"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Date": "12/10/22",
+    "Patient": {
+        "Name": "Mr. Sachin Bansal",
+        "Age": "28/m"
+    },
+    "Medicines": [
+        {
+            "Type": "Tab",
+            "Medicine": "Augmentin",
+            "Dosage": "625mg",
+            "Timings": [
+                8,
+                1,
+                7
+            ]
+        },
+        {
+            "Type": "Tab",
+            "Medicine": "Enzoflam",
+            "Dosage": "40mg",
+            "Timings": [
+                8,
+                1,
+                7
+            ]
+        }
+    ]
+}

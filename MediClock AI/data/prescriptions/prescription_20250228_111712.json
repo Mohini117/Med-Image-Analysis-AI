@@ -1,0 +1,32 @@
+{
+    "Date": "12/10/22",
+    "Patient": {
+        "Name": "Mr. Sachin Sansare",
+        "Age": "28/m"
+    },
+    "Medicines": [
+        {
+            "Type": "Tab.",
+            "Medicine": "Augmentin 625mg",
+            "Dosage": "1-0-1 \u00d7 5days",
+            "Timings": [
+                "8 AM",
+                "7 PM"
+            ]
+        },
+        {
+            "Type": "Tab.",
+            "Medicine": "Enzoflam",
+            "Dosage": "1-0-1 \u00d7 5days",
+            "Timings": [
+                "1 PM"
+            ]
+        },
+        {
+            "Type": "Tab.",
+            "Medicine": "PanD 40mg",
+            "Dosage": "1-0-0 \u00d7 5days",
+            "Timings": []
+        }
+    ]
+}

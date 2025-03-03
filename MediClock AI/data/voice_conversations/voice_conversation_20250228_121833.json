@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about brain tumor"
+    },
+    {
+        "role": "assistant",
+        "content": "A brain tumor is an abnormal growth of tissue in the brain, which can be cancerous or non-cancerous. Symptoms include headaches, seizures, and changes in personality or speech. Tumors can be benign or malignant, and treatment options vary depending on the type and severity."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about brain Tum"
+    },
+    {
+        "role": "assistant",
+        "content": "A brain tumor is an abnormal growth of cells in the brain. It can be cancerous (malignant) or non-cancerous (benign). Symptoms include headaches, seizures, and changes in personality or vision."
+    }
+]

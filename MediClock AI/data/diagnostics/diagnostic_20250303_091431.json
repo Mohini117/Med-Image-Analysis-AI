@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Glioma",
+    "Confidence_Score": 90,
+    "Description": "A glioma is a type of brain tumor originating from glial cells. It can vary in aggressiveness and location within the brain.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Radiation exposure",
+        "Family history",
+        "Environmental factors"
+    ],
+    "Recommended_Actions": [
+        "Neurosurgical evaluation",
+        "Neurological examination",
+        "Biopsy for diagnosis",
+        "Personalized treatment planning"
+    ]
+}

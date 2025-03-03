@@ -1,0 +1,18 @@
+{
+    "Date": "23 Jan 99",
+    "Patient": {
+        "Name": "John R. Doe",
+        "Age": "12"
+    },
+    "Medicines": [
+        {
+            "Type": "Tablet",
+            "Medicine": "Th Billedonna",
+            "Dosage": "15 ml",
+            "Timings": [
+                "8 ",
+                "11:27"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about Sachin medicine"
+    },
+    {
+        "role": "assistant",
+        "content": "Sachin Bansal is taking two medicines: Augmentin (625mg) at 1, 0, and 1 pm, and Enzoflam (40mg) three times a day."
+    }
+]

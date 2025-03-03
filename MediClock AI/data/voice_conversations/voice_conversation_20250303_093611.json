@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about Sachin's medication"
+    },
+    {
+        "role": "assistant",
+        "content": "Sachin is taking two medications: Augmentin (625 mg) and Enzoflam (40 mg)."
+    }
+]

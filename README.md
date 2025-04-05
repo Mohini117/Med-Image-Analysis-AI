@@ -118,3 +118,5 @@ Samiksha B. More (co-lead)
 ![Screenshot 2025-03-03 101436](https://github.com/user-attachments/assets/0dc20d79-0acd-4285-b752-7ec8ed65ed8e)
 ![Screenshot 2025-03-03 101450](https://github.com/user-attachments/assets/c049daaf-fa38-42d1-884e-e7a7d435a148)
 ![Screenshot 2025-03-03 101502](https://github.com/user-attachments/assets/f56e7db4-b770-4ad3-af35-a2c6b9d935c6)
+![med alert](https://github.com/user-attachments/assets/4dd14b82-8dfd-4e4a-8b19-f9f9a0e1b6ae)
+

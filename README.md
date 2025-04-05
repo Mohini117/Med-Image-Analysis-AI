@@ -50,7 +50,9 @@ The Medicine Image Analysis System is an AI-powered tool designed to analyze ima
 ```sh
 $ git clone https://github.com/yourusername/medicine-image-analysis.git
   
-$ cd medicine-image-analysis
+$ cd Med-Image-Analysis-AI
+
+$ cd MediClock AI
 ```
 Ensure you have Python installed (>=3.8) and required dependencies:
 * Make sure you have make .env file with required api keys
